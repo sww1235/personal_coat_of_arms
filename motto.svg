@@ -2,12 +2,35 @@
 
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  width="240" height="320"
-  viewBox="0 0  "
-  version="1.1">
+  width="700" height="500"
+  viewBox="0 150 400 100"
   <title>Motto</title>
+<g>
+<path
+  d="
+  M 100,100
+  C 150,120 395,90 400,100
+  S 370,130 400,150
+  C 200,140 200,140 100,150
+  Q 120,130 100,100
 
+  "
 
+ style="fill:#ffff00;fill-opacity:0.5;stroke:#000000;stroke-width:0.24710871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+ />
+ <!-- <path
+   d="
+   M 100,100
+   Q 105,120 100,100
+   Q 390,120 400,150
+   "
 
+  style="fill:#ffff00;fill-opacity:0.0;stroke:#000000;stroke-width:0.24710871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+  /> -->
+
+</g>
+
+<g>
+</g>
 
 </svg>
