@@ -5,8 +5,7 @@
   width="150mm"
   height="250mm"
   viewBox="0 0 744.09448819 1052.3622047"
-  id="svg3352"
-
+  <title>Shield</title>
   <g>
     <path
       d="M 50,100 Q 40,850 350,1000 Q 670,850 650,100 Z"
@@ -19,14 +18,12 @@
       x="250"
       width="200"
       height="150"
-      id="rect3336"
       style="fill:#00ff00;fill-rule:evenodd;stroke:#000000;stroke-width:0.24710871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <rect
       y="100"
       x="50"
       width="200"
       height="150"
-      id="rect3342"
       style="fill:#ff0000;fill-rule:evenodd;stroke:#000000;stroke-width:0.24710871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        />
     <rect
@@ -34,7 +31,6 @@
       x="450"
       width="200"
       height="150"
-      id="rect3344"
       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.24710871px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
   <g>
